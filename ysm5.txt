@@ -1,1 +1,3 @@
 let's try push again
+i am in working, and i am trying stash
+I am fixed a bug
